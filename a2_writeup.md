@@ -13,8 +13,8 @@ This assignment is about learning and applying the while loop and iterating thro
 ## Reflection Questions
 1. What was difficult for you while completing the match function?
 
-
+While thinking about the logic in my head is easy, it is hard to write it out while making sure to not have any small bugs which can break the whole program. It was also hard to visualize a lot of the coding in my head which means I should maybe do some of it on paper or something like that.
 
 2. Explain how you could use the match function for extracting information from a movie database.
 
-
+I could use the match function to search for certain movies by seeing if the pattern I enter matches anything in the df. For example if the df has the director I could search for all of the movies by the same director as well.
